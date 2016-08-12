@@ -1,0 +1,6 @@
+/builds
+/obj
+*.csproj
+/Library/metadata
+/Library/ScriptAssemblies
+/Library/ShaderCache
